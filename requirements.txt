@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+scikit-learn
+xgboost
+imbalanced-learn
+joblib
+plotly
+matplotlib
+seaborn
+librosa
+soundfile
+praat-parselmouth
