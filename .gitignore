@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Models
+models/
+
+# Datasets / Large archives
+archive (3)/
+archive/
+
+# OS/Editor configs
+.vscode/
+.idea/
+Thumbs.db
+Ehthumbs.db
+Desktop.ini
